@@ -1,8 +1,6 @@
 # Hi, I'm Kushagr Rajput 👋
 
-### 🎓 B.Tech CSE (AI & ML) Student | 💻 Aspiring Developer
-
-I'm a **Computer Science and Engineering (AI & ML) student at Lovely Professional University**, currently building my foundation in programming, computer science, artificial intelligence, machine learning, and data science.
+### 🎓 B.Tech CSE (AI & ML) Student at Lovely Professional University | Aspiring AI & Machine Learning Engineer | Passionate About Technology
 
 ### 🧑‍💻 About Me
 
