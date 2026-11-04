@@ -15,7 +15,7 @@
 ### 🛠️ Technical Skills
 
 **Languages:**
-Python • C • C++
+Python • HTML • CSS 
 
 **Computer Science:**
 Programming Fundamentals • Problem Solving
